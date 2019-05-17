@@ -11,3 +11,4 @@ I had an idea to create a collaboratived repository to put all the papers that w
 6. [THE PERCEPTRON: a probabilistic model for information storage and organization in the brain by Frank Rosenblatt](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.335.3398&rep=rep1&type=pdf)
 7. [Steps Toward Artificial Intelligence by Marvin Minsky](https://courses.csail.mit.edu/6.803/pdf/steps.pdf)
 8. [Actor Model by Carl Hewitt](https://arxiv.org/vc/arxiv/papers/1008/1008.1459v8.pdf)
+9. [What Every Programmer Should Know About Memory by Ulrich Drepper ](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
