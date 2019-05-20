@@ -13,3 +13,5 @@ I had an idea to create a collaboratived repository to put all the papers that w
 8. [Actor Model by Carl Hewitt](https://arxiv.org/vc/arxiv/papers/1008/1008.1459v8.pdf)
 9. [What Every Programmer Should Know About Memory by Ulrich Drepper ](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
 10. [What Every Computer Scientist Should Know About Floating-Point Arithmetic, by David Goldberg](https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf)
+11. [The Historical Roots of Concurrent
+Engineering Fundamentals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=552809)
