@@ -15,3 +15,12 @@ I had an idea to create a collaboratived repository to put all the papers that w
 10. [What Every Computer Scientist Should Know About Floating-Point Arithmetic, by David Goldberg](https://www.itu.dk/~sestoft/bachelor/IEEE754_article.pdf)
 11. [The Historical Roots of Concurrent
 Engineering Fundamentals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=552809)
+12. [Why software jewels are rare](https://www.researchgate.net/publication/2954521_Why_software_jewels_are_rare)
+13. [Go To Statement Considered Harmful](
+https://t.co/jAd1iSmhQk)
+14. [A Plea for Lean Software by Niklaus Wirth]
+(https://t.co/heYykLqiSa)
+15. [The Cathedral and the Bazaar](https://manybooks.net/titles/raymondericother05cathedralandbazaar.html) 
+
+
+ 
