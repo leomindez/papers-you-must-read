@@ -18,8 +18,7 @@ Engineering Fundamentals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumb
 12. [Why software jewels are rare](https://www.researchgate.net/publication/2954521_Why_software_jewels_are_rare)
 13. [Go To Statement Considered Harmful](
 https://t.co/jAd1iSmhQk)
-14. [A Plea for Lean Software by Niklaus Wirth]
-(https://t.co/heYykLqiSa)
+14. [A Plea for Lean Software by Niklaus Wirth](https://t.co/heYykLqiSa)
 15. [The Cathedral and the Bazaar](https://manybooks.net/titles/raymondericother05cathedralandbazaar.html) 
 
 
