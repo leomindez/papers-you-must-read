@@ -20,6 +20,5 @@ Engineering Fundamentals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumb
 https://t.co/jAd1iSmhQk)
 14. [A Plea for Lean Software by Niklaus Wirth](https://t.co/heYykLqiSa)
 15. [The Cathedral and the Bazaar](https://manybooks.net/titles/raymondericother05cathedralandbazaar.html) 
-
-
+16. [Time bounds for selection](https://www.sciencedirect.com/science/article/pii/S0022000073800339)
  
