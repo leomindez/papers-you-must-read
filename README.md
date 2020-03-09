@@ -21,4 +21,4 @@ https://t.co/jAd1iSmhQk)
 14. [A Plea for Lean Software by Niklaus Wirth](https://t.co/heYykLqiSa)
 15. [The Cathedral and the Bazaar](https://manybooks.net/titles/raymondericother05cathedralandbazaar.html) 
 16. [Time bounds for selection](https://www.sciencedirect.com/science/article/pii/S0022000073800339)
- 
+17. [Why Functional Programming Matters by John Hughes](https://www.cs.kent.ac.uk/people/staff/dat/miranda/whyfp90.pdf)
